@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, me chamo Henrique! 
+### Bem vindo ao meu perfil GitHub 👋
 
-<!--
-**Ecxpectro/Ecxpectro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Possuo conhecimentos em desenvolvimento back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Tecnologia da informação, e dessa forma, adquirir cada vez mais experiência.
 
-Here are some ideas to get you started:
+### Ferramentas e Tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" width="40" height="40"/>
+
+</div>
+
+### Contatos:
+
+<div>
+  <a href="mailto:henriquescunha12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80"></a>
+  <a href="https://www.linkedin.com/in/henrique-schraiber-cunha-568314234/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
+</div>
