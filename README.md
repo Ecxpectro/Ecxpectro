@@ -1,7 +1,9 @@
-## Olá, me chamo Henrique! 
-### Bem vindo ao meu perfil GitHub 👋
+## Hi there, I'm Henrique! 
+### I'm a Full-Stack Engineer 👨🏼‍💻
 
-Possuo conhecimentos em desenvolvimento back-end, gosto de trabalhar em equipe e continuo querendo aprender cada vez mais, não só em desenvolvimento web, mas também em outras áreas englobadas pela Tecnologia da informação, e dessa forma, adquirir cada vez mais experiência.
+- 🎓 Degree in Systems Analysis and Development
+- 📱 Working as a Full-Stack Engineer
+- 🎯 Looking to learn more about .Net
 
 <div align="center">
   <a href="https://github.com/Ecxpectro">
