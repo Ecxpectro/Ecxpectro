@@ -32,6 +32,6 @@
 ### Contatos:
 
 <div>
-  <a href="mailto:henriquescunha12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80"></a>
-  <a href="https://www.linkedin.com/in/henrique-schraiber-cunha-568314234/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="100"></a>
+  <a href="mailto:henriquescunha12345@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80" height="28></a>
+  <a href="https://www.linkedin.com/in/henrique-schraiber-cunha-568314234/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the badge&logo=linkedin&logoColor=white" width="80" height="28"></a>
 </div>
